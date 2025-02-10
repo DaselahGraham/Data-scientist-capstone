@@ -93,8 +93,6 @@ ________________________________________
 •	Dataset Source: The dataset was provided by Kaggle for analysis, and is based on publicly available health insurance coverage data.
 •	Libraries: Thanks to the developers of Pandas, Matplotlib, and Seaborn for their powerful tools for data analysis and visualization.
 •	Blog Post: https://medium.com/@dgrah026/healthcare-for-all-a-data-driven-journey-through-obamacares-impact-b7852f111913
-Here are the captions for the links:  
-
 1. **Health Insurance Dataset** – Kaggle dataset on health insurance data.  
    [🔗 Kaggle Dataset](https://www.kaggle.com/datasets/hhs/health-insurance/data)  
 
@@ -127,8 +125,6 @@ Here are the captions for the links:
 
 11. **Bar Plot Visualization** – Seaborn's `barplot()` function documentation.  
    [🔗 Seaborn `barplot()`](https://seaborn.pydata.org/generated/seaborn.barplot.html)  
-
-Let me know if you want me to refine or add more details! 🚀
 ________________________________________
 ## Conclusion
 My project provides valuable insights into the impact of Medicaid expansion and marketplace health insurance coverage in the United States. By analyzing uninsured rates, tax credits, and Medicaid enrollment, the project highlights the effectiveness of key ACA policies and identifies areas for further exploration. Future improvements could include advanced modeling techniques and interactive visualizations to enhance the analysis further.
