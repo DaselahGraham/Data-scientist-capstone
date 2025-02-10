@@ -93,6 +93,42 @@ ________________________________________
 •	Dataset Source: The dataset was provided by Kaggle for analysis, and is based on publicly available health insurance coverage data.
 •	Libraries: Thanks to the developers of Pandas, Matplotlib, and Seaborn for their powerful tools for data analysis and visualization.
 •	Blog Post: https://medium.com/@dgrah026/healthcare-for-all-a-data-driven-journey-through-obamacares-impact-b7852f111913
+Here are the captions for the links:  
+
+1. **Health Insurance Dataset** – Kaggle dataset on health insurance data.  
+   [🔗 Kaggle Dataset](https://www.kaggle.com/datasets/hhs/health-insurance/data)  
+
+2. **Convert Data to Numeric** – Pandas `to_numeric()` function documentation.  
+   [🔗 Pandas `to_numeric`](https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html)  
+
+3. **Handling Missing Values** – Stack Overflow discussion on `df.isnull().sum()`.  
+   [🔗 Stack Overflow: `isnull().sum()`](https://stackoverflow.com/questions/59349484/why-does-df-isnull-sum-work-the-way-it-does)  
+
+4. **Fill Missing Data** – Pandas `fillna()` function documentation.  
+   [🔗 Pandas `fillna`](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html)  
+
+5. **Descriptive Statistics** – Pandas `describe()` function reference from W3Schools.  
+   [🔗 Pandas `describe()`](https://www.w3schools.com/python/pandas/ref_df_describe.asp)  
+
+6. **Box Plot Visualization** – Seaborn's `boxplot()` function documentation.  
+   [🔗 Seaborn `boxplot()`](https://seaborn.pydata.org/generated/seaborn.boxplot.html)  
+
+7. **Correlation Matrix** – Pandas `corr()` function for finding correlations between columns.  
+   [🔗 Pandas `corr()`](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html)  
+
+8. **Scatter Plot Visualization** – Seaborn's `scatterplot()` function documentation.  
+   [🔗 Seaborn `scatterplot()`](https://seaborn.pydata.org/generated/seaborn.scatterplot.html)  
+
+9. **Regression Plot** – Seaborn's `regplot()` function for regression analysis.  
+   [🔗 Seaborn `regplot()`](https://seaborn.pydata.org/generated/seaborn.regplot.html)  
+
+10. **Find Largest Values** – Pandas `nlargest()` function for selecting top rows.  
+   [🔗 Pandas `nlargest()`](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nlargest.html)  
+
+11. **Bar Plot Visualization** – Seaborn's `barplot()` function documentation.  
+   [🔗 Seaborn `barplot()`](https://seaborn.pydata.org/generated/seaborn.barplot.html)  
+
+Let me know if you want me to refine or add more details! 🚀
 ________________________________________
 ## Conclusion
 My project provides valuable insights into the impact of Medicaid expansion and marketplace health insurance coverage in the United States. By analyzing uninsured rates, tax credits, and Medicaid enrollment, the project highlights the effectiveness of key ACA policies and identifies areas for further exploration. Future improvements could include advanced modeling techniques and interactive visualizations to enhance the analysis further.
