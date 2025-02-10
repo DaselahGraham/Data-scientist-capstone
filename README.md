@@ -90,7 +90,7 @@ ________________________________________
 •	Visualizations: Effectively communicated trends.
 ________________________________________
 ## Acknowledgements
-•	Dataset Source: The dataset was provided by Kaggle for analysis, and is based on publicly available health insurance coverage data.
+
 •	Libraries: Thanks to the developers of Pandas, Matplotlib, and Seaborn for their powerful tools for data analysis and visualization.
 •	Blog Post: https://medium.com/@dgrah026/healthcare-for-all-a-data-driven-journey-through-obamacares-impact-b7852f111913
 1. **Health Insurance Dataset** – Kaggle dataset on health insurance data.  
